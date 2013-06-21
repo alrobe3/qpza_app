@@ -27,11 +27,11 @@ $(document).ready(function(){
 		$('#share_panel_pointer').toggle();
 	});
 		
-	$('#sponsors_carousel_1').jcarousel({
-		 auto: 2,
-        wrap: 'last',
-        initCallback: mycarousel_initCallback
-		});
+	// $('#sponsors_carousel_1').jcarousel({
+		 // auto: 2,
+        // wrap: 'last',
+        // initCallback: mycarousel_initCallback
+		// });
 });
 
 //*******************************FUNCTIONS*****************************************//
